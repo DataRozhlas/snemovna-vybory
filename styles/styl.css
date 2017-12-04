@@ -1,3 +1,5 @@
-/*
-CSS soubory ve složce /styles/ se do výsledného článku zakompilují automaticky
-*/
+ul {
+	font-size: 100% !important;
+	list-style: disc !important;
+	line-height: 1.5 !important;
+}
